@@ -1,5 +1,5 @@
 # hooksdemo
-🪝 Hooks Demo for Mike with Expo
+🪝 Hooks Demo for Kevin+Mike with React/Expo
 
 
 Everything is in app.js
