@@ -9,7 +9,7 @@ yarn
 ```
 
 ```
-yarn star
+yarn start
 ```
 
 Click Web!
