@@ -23,6 +23,8 @@ expo init hooksdemo
 
 Bonus Learn more graphql FE: 
 
+Apollo has wonderful Graphql hooks for `useQuery` and `useMutation`. 
+
 https://www.apollographql.com/docs/react/get-started/
 
 https://apis.guru/graphql-apis/ 
